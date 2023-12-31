@@ -1,0 +1,30 @@
+{
+  "name": "food_site",
+  "version": "1.0.0",
+  "description": "This is React food_site",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejz-dev3/Food_site.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Tejaswini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejz-dev3/Food_site/issues"
+  },
+  "homepage": "https://github.com/tejz-dev3/Food_site#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
