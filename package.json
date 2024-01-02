@@ -4,6 +4,8 @@
   "description": "This is React food_site",
   
   "scripts": {
+    "start" : "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {

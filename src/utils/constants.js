@@ -1,0 +1,3 @@
+export const LOGO_URL = "https://snipboard.io/xfm1kG.jpg"
+
+export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/"
